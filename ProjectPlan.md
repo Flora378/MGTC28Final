@@ -1,5 +1,5 @@
 ## Project Plan
-**Group members:** Flora Kwan, Katherine Feng, Minda Shi
+**Group members:** Flora K., Katherine F., Minda S. (Group 5)
 
 Our analysis will consist of using forecasting to determine an optimal sales plan for a specific need state.
 

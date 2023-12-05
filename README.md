@@ -1,11 +1,13 @@
-# KenvueInc
+### DISCLAIMER: All data is **simulated** and **not real**.
+
+# Company Need State Analysis
 MGTC28 Final Group Project
 
 ## Tableau Link:
-https://public.tableau.com/views/KenvueNeedStateAnalysis/KenvueNeedStateAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CompanyNeedStateAnalysis/CompanyNeedStateAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Project Plan
-**Group members:** Flora Kwan, Katherine Feng, Minda Shi
+**Group members:** Flora K., Katherine F., Minda S. (Group 5)
 
 Our analysis will consist of using forecasting to determine an optimal sales plan for a specific need state.
 
