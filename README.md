@@ -1,8 +1,9 @@
-# KenvueInc
+# Company Need State Analysis
 MGTC28 Final Group Project
+## DISCLAIMER: All data is **simulated** and **not real**.
 
 ## Tableau Link:
-https://public.tableau.com/views/KenvueNeedStateAnalysis/KenvueNeedStateAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CompanyNeedStateAnalysis/CompanyNeedStateAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Project Plan
 **Group members:** Flora Kwan, Katherine Feng, Minda Shi
